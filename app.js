@@ -23,7 +23,7 @@ if (numeroSecreto == chute) {
 alert('Bem-vindo ao jogo do número secreto')
 let chute = prompt('Escolha um número entre 1 e 10')
 
-let numeroSecreto = 5
+let numeroSecreto = 10
 
 console.log(chute == numeroSecreto)
 if (chute == numeroSecreto) {
